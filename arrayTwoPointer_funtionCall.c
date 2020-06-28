@@ -1,4 +1,4 @@
-//C program to display array elements by two pointer funtion call
+//C program to display array elements by two pointers funtion call
 main( )
 {  
 
